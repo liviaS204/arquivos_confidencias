@@ -1,2 +1,2 @@
-# arquivos_confidencias
+# arquivos-confidencias
 aulas de git da DNC.
